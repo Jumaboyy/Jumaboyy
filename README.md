@@ -46,19 +46,4 @@
 
 ---
 
-### 🏆 GitHub profil ma’lumotlari
-<p>
-  <img src="https://img.shields.io/github/followers/Jumaboyy?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Jumaboyy?label=Stars&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/repos/Jumaboyy?label=Repositories&style=for-the-badge"/>
-</p>
-
----
-
-### 📫 Bog‘lanish
-- 💬 Telegram: **@Jumaboy_Nematov**
-- 🌍 GitHub: https://github.com/Jumaboyy
-
----
-
 ⭐ Profilim yoqqan bo‘lsa, repo’larimga **star ⭐** bosishni unutmang 🙂
