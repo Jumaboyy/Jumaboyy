@@ -39,5 +39,17 @@
 </p>
 
 ---
+### 📊 GitHub statistika
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jumaboy-Nematov&show_icons=true&theme=tokyonight&hide_title=true"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jumaboy-Nematov&theme=tokyonight"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaboy-Nematov&layout=compact&theme=tokyonight"/>
+</p>
 
 ⭐ Profilim yoqqan bo‘lsa, repo’larimga **star ⭐** bosishni unutmang 🙂
