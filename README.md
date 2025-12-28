@@ -39,8 +39,9 @@
   <img width="48" height="48" alt="Telegram" src="https://github.com/user-attachments/assets/04b68b46-6cf0-4d63-a9d0-3f17ea6742c9" />
 </a>
 <a href="https://www.linkedin.com/in/jumaboy-ne-matov-a86624276/" target="_blank">
-  <img width="48" height="48" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" />
+  <img width="48" height="48" alt="icons8-linkedin-48" src="https://github.com/user-attachments/assets/294fbc21-2fda-4b92-8fee-cd5513bbcbaf" />
 </a>
+
 
 ---
 
