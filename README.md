@@ -34,10 +34,8 @@
 ---
 
 ### 📈 GitHub statistikam
-> Agar ko‘rinmasa — `username=` ni GitHub nick’ingiz bilan bir xil qiling
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jumaboyy&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jumaboyy&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p>
@@ -48,8 +46,8 @@
 
 ### 📫 Bog‘lanish
 - 💬 Telegram: **@Jumaboy_Nematov**
-- 🌍 GitHub: [github.com/Jumaboy-Nematov](https://github.com/Jumaboy-Nematov)
+- 🌍 GitHub: https://github.com/Jumaboyy
 
 ---
 
-⭐ Profilim yoqqan bo‘lsa, repo’larimga **star** bosishni unutmang 🙂
+⭐ Profilim yoqqan bo‘lsa, repo’larimga **star ⭐** bosishni unutmang 🙂
