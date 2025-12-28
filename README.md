@@ -9,6 +9,11 @@
 
 ---
 
+### 👀 Profile ko‘rishlar soni
+<img src="https://komarev.com/ghpvc/?username=Jumaboyy&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+
+---
+
 ### 🧠 Men biladigan dasturlash tillari
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,20 +37,20 @@
 </p>
 
 ---
+
 ### 🌐 Backend texnologiyalar
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
+
 ---
 
-### 📈 GitHub statistikam
+### 🏆 GitHub profil ma’lumotlari
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jumaboyy&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jumaboyy&theme=tokyonight"/>
+  <img src="https://img.shields.io/github/followers/Jumaboyy?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Jumaboyy?label=Stars&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repos/Jumaboyy?label=Repositories&style=for-the-badge"/>
 </p>
 
 ---
