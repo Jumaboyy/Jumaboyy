@@ -37,8 +37,9 @@
 ---
 ### 📫 Bog‘lanish
 <a href="https://t.me/Jumaboy_Nematov" target="_blank">
-  <img src="dedbe865-d312-44c8-a583-bfac0c4c56af.gif" alt="Telegram" width="50"/>
+  <img width="48" height="48" alt="icons8-telegram-48" src="https://github.com/user-attachments/assets/04b68b46-6cf0-4d63-a9d0-3f17ea6742c9" />
 </a>
+
 
 
 ---
