@@ -36,7 +36,8 @@
 
 ---
 ### 📫 Bog‘lanish
-- 💬 Telegram: **@Jumaboy_Nematov**  
+-  [![Telegram](https://img.shields.io/badge/Telegram-@Jumaboy_Nematov-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jumaboy_Nematov)
+
 
 ---
 
