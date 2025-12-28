@@ -2,7 +2,7 @@
 
 ---
 
-🎓 **Computer Engineering talabasi**  
+🎓 **Kompyuter injiniringi talabasi**  
 💻 **Junior Developer**  
 🚀 Dasturlash va zamonaviy web texnologiyalarga qiziqaman  
 
