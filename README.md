@@ -39,17 +39,9 @@
 </p>
 
 ---
-### 📊 GitHub statistika
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jumaboyy&show_icons=true&theme=tokyonight&hide_title=true"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jumaboyy&theme=tokyonight"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaboyy&layout=compact&theme=tokyonight"/>
+### 📊 GitHub contribution grid (Wavy)
+<p align="center">
+  <img src="https://github.com/DenverCoder1/github-readme-wavy/blob/main/output/wavy.svg?raw=true" alt="GitHub Wavy Contribution Grid"/>
 </p>
 
 ⭐ Profilim yoqqan bo‘lsa, repo’larimga **star ⭐** bosishni unutmang 🙂
