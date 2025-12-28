@@ -1,5 +1,4 @@
 ### Hi, I'm Jumaboy Ne'matov 👋  
-👋
 
 ---
 
@@ -33,16 +32,15 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 
-
 ---
+
 ### 📫 Bog‘lanish
 <a href="https://t.me/Jumaboy_Nematov" target="_blank">
-  <img width="48" height="48" alt="icons8-telegram-48" src="https://github.com/user-attachments/assets/04b68b46-6cf0-4d63-a9d0-3f17ea6742c9" />
+  <img width="48" height="48" alt="Telegram" src="https://github.com/user-attachments/assets/04b68b46-6cf0-4d63-a9d0-3f17ea6742c9" />
 </a>
 <a href="https://www.linkedin.com/in/jumaboy-ne-matov-a86624276/" target="_blank">
   <img width="48" height="48" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" />
 </a>
-
 
 ---
 
