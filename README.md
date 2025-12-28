@@ -36,7 +36,9 @@
 
 ---
 ### 📫 Bog‘lanish
--  [![Telegram](https://img.shields.io/badge/Telegram-@Jumaboy_Nematov-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jumaboy_Nematov)
+<a href="https://t.me/Jumaboy_Nematov" target="_blank">
+  <img src="dedbe865-d312-44c8-a583-bfac0c4c56af.gif" alt="Telegram" width="50"/>
+</a>
 
 
 ---
