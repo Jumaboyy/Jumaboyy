@@ -33,25 +33,10 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 
----
-
-### 📊 GitHub contribution grid (Wavy)
-<img src="https://github.com/DenverCoder1/github-readme-wavy/blob/main/output/wavy.svg?raw=true" alt="GitHub Wavy Contribution Grid" />
 
 ---
-
-### 📈 GitHub statistika
-![Jumaboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jumaboy-Nematov&show_icons=true&theme=tokyonight&hide_title=true)  
-
-![Jumaboy's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Jumaboy-Nematov&theme=tokyonight)  
-
-![Jumaboy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaboy-Nematov&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Bog‘lanish
 - 💬 Telegram: **@Jumaboy_Nematov**  
-- 🌍 GitHub: [github.com/Jumaboy-Nematov](https://github.com/Jumaboy-Nematov)
 
 ---
 
